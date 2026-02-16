@@ -1,2 +1,2 @@
 # CaloriMeter
-This is a planned project for an AI-powered calorie tracking agent. It is being developed as a learning project to practice building AI agents
+I’m working on a simple AI-powered calorie tracking agent as a learning project. It’s a hands-on way for me to practice building and experimenting with AI agents.
